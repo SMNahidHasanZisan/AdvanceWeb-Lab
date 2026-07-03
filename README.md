@@ -1,19 +1,8 @@
-# Lab Task 01: Course Management REST API
+# Advance Web Lab Tasks
 
-This NestJS project implements the course routes required by the lab task.
+This repository contains lab task submissions for the Advance Web course.
 
-## Run
+## Labs
 
-```bash
-npm install
-npm run start:dev
-```
+- [Lab Task 1 - Course Management REST API](./lab-task1)
 
-## Routes
-
-- `GET /course`
-- `GET /course/:id`
-- `POST /course`
-- `PUT /course/:id`
-- `PATCH /course/:id`
-- `DELETE /course/:id`
